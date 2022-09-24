@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bornomala">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_s"
+        android:label="বর্ণমালা"
+        android:roundIcon="@drawable/logo_s"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Bornomala">
+        <activity
+            android:name=".Little"
+            android:exported="false" />
+        <activity
+            android:name=".Jhonny"
+            android:exported="false" />
+        <activity
+            android:name=".blacksheep"
+            android:exported="false" />
+        <activity
+            android:name=".Mainmenu"
+            android:exported="false" />
+        <activity
+            android:name=".poems"
+            android:exported="false" />
+        <activity
+            android:name=".Alphabet"
+            android:exported="false" />
+        <activity
+            android:name=".english"
+            android:exported="false" />
+        <activity
+            android:name=".chadutheche"
+            android:exported="false" />
+        <activity
+            android:name=".taitai"
+            android:exported="false" />
+        <activity
+            android:name=".katbirali"
+            android:exported="false" />
+        <activity
+            android:name=".khokhon"
+            android:exported="false" />
+        <activity
+            android:name=".ayay"
+            android:exported="false" />
+        <activity
+            android:name=".poem"
+            android:exported="false" />
+        <activity
+            android:name=".flash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".cons"
+            android:exported="false" />
+        <activity
+            android:name=".vwel"
+            android:exported="false" />
+        <activity
+            android:name=".Menu"
+            android:exported="true" />
+        <activity
+            android:name=".consonant"
+            android:exported="false" />
+        <activity
+            android:name=".vowel"
+            android:exported="false" />
+    </application>
+
+</manifest>

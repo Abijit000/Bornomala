@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_alphabet.xml" value="0.13134057971014493" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_blacksheep.xml" value="0.15896739130434784" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_chadutheche.xml" value="0.15896739130434784" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_cons.xml" value="0.13134057971014493" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_consonant.xml" value="0.2" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_english.xml" value="0.13134057971014493" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_jhonny.xml" value="0.15896739130434784" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_little.xml" value="0.15896739130434784" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_mainmenu.xml" value="0.13134057971014493" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_menu.xml" value="0.1094224924012158" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_poem.xml" value="0.2138364779874214" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_poems.xml" value="0.15896739130434784" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_vowel.xml" value="0.13134057971014493" />
+        <entry key="..\:/Android projects/Bornomala/app/src/main/res/layout/activity_vwel.xml" value="0.13134057971014493" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
